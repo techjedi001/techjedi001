@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Project Plan for a new application to Monitor Studens Meal Plan</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Student Meal plan Project](https://github.com/techjedi001/Student-Application-Project-Plan)
 - <b>Analyze an incident, create and produce a visual timelilne of events
    - [Event and timeline](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Forensic Analysis Project </b>
