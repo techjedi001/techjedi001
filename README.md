@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Log Analysis for intrustion detection</b>
+- <b>Project Plan for a new application to Monitor Studens Meal Plan</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Analyze an incident, create and produce a visual timelilne of events
    - [Event and timeline](https://github.com/joshmadakor1/Algorithms-Practice)
