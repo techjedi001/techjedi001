@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Project Plan for a new application to Monitor Studens Meal Plan</b>
+- <b>Project Plan for a new application to Monitor Students Meal Plan</b>
   - [Student Meal plan Project](https://github.com/techjedi001/Student-Application-Project-Plan)
 - <b>Analyze an incident, create and produce a visual timelilne of events
    - [Event and timeline](https://github.com/joshmadakor1/Algorithms-Practice)
