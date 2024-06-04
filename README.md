@@ -11,8 +11,13 @@
    - Conducted a forensic investigation into an incident report utilizng analyst tools such as Autopsy, Scalpel, Bulk Extractor and provide recommendations from findings
    - [Forensic Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Certifications</b>
+   - CompTIA Secure Cloud Professional (Security+, Cloud+)
+   - CompTIA Security Analytics Professional (Security+, CySA+)
+   - Cisco Certified Network Associate (CCNA) 
+   - Microsoft Azure Cloud Fundamentals
+   - MITRE ATT&CK
 
--IBM threats and such things
+
 
 
 
