@@ -7,9 +7,11 @@
 - <b>Network Security Incident </b>
    - Review logs and produce a report in identifying the suspect
    - [Investiation Report](https://github.com/techjedi001/Investigation-Report)
-- <b>Forensic Analysis Project (pending) </b>
-   - Conducted a forensic investigation into an incident report utilizng analyst tools such as Autopsy, Scalpel, Bulk Extractor and provide recommendations from findings
-   - [Forensic Analysis](https://github.com/techjedi001/Digital Forensic-Analysis Incident/blob/main/README.md)
+- <b>Forensic Analysis Project </b>
+   - Conducted a forensic investigation into an incident report utilizng analyst tools such as Autopsy and provide recommendations from findings
+   - [Digital Forensic Analysis Incident](https://github.com/techjedi001/Forensic-Analysis.git)
+ 
+     
 - <b> Certifications</b>
    - CompTIA Secure Cloud Professional (Security+, Cloud+)
    - CompTIA Security Analytics Professional (Security+, CySA+)
