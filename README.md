@@ -9,7 +9,7 @@
    - [Investiation Report](https://github.com/techjedi001/Investigation-Report)
 - <b>Forensic Analysis Project (pending) </b>
    - Conducted a forensic investigation into an incident report utilizng analyst tools such as Autopsy, Scalpel, Bulk Extractor and provide recommendations from findings
-   - [Forensic Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Forensic Analysis](https://github.com/techjedi001/Forensic-Analysis/blob/main/README.md)
 - <b> Certifications</b>
    - CompTIA Secure Cloud Professional (Security+, Cloud+)
    - CompTIA Security Analytics Professional (Security+, CySA+)
